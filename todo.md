@@ -1,7 +1,10 @@
 
 - fix an issue with english airport names and no distinction for "other"
-- should I add more variety to images/description of the same destination
+- should I add more variety to images/description of the same destination? How exactly?
+- related posts only from the same airport? Now it mixes up
 
+- separate category for long-haul - as people may want to  travel to further airport to 
+get a good deal for them (like we did to Thailand or Hanyses do)
 - emojis?
 - move "o nas"/"kontakt" or just style differently
 - Add "Assuming you work from Mon-Fri"
