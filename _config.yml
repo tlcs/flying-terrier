@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Lot 777"
+title:		           "Flying Terrier"
 description:	       "Loty w inspirujące miejsca w atrakcyjnych cenach"
-author:              "Lot 777"
+author:              "Flying Terrier"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

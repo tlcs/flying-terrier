@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Korfu na wiosnę i majówkę od 400PLN!"
-author: "Lot777"
+author: "FlyingTerrier"
 categories: krakow
 tags: [ krakow, corfu, sunny ]
 image: corfu.webp
