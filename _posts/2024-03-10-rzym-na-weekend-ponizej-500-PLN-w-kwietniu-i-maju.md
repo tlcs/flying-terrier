@@ -2,8 +2,9 @@
 layout: post
 title: "Rzym na weekend poniżej 500PLN w kwietniu i maju"
 author: "FlyingTerrier"
-categories: krakow
+categories: [krakow, europe]
 tags: [krakow, rome, sunny ]
+airports: "Kraków"
 image: rome.jpg
 ---
 

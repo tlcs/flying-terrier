@@ -2,8 +2,9 @@
 layout: post
 title: "Korfu na wiosnę i majówkę od 400PLN!"
 author: "FlyingTerrier"
-categories: krakow
+categories: [krakow, europe]
 tags: [ krakow, corfu, sunny ]
+airports: "Kraków"
 image: corfu.webp
 ---
 

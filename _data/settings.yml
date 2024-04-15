@@ -7,11 +7,14 @@ disqus:
 google-ID: 'G-0NY2L2YKG1'
 
 menu:
-- {name: 'Kraków',             url: 'krakow'}
-- {name: 'Warszawa',           url: 'warsaw'}
-- {name: 'Inne miasta',        url: 'other'}
+- {name: 'Świat',                 url: 'europe'}
+- {name: 'Europa',                url: 'europe'}
+- {name: 'Z Krakowa',             url: 'krakow'}
+- {name: 'Z Warszawy',            url: 'warsaw'}
+- {name: 'Niezwykłe',             url: 'warsaw'}
 
 #- {name: 'O nas',              url: 'about'}
+#- change colour or something?
 - {name: 'Kontakt',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

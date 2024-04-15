@@ -2,8 +2,9 @@
 layout: post
 title: "Cypr na wiosnę i majówke od 400PLN!"
 author: "FlyingTerrier"
-categories: krakow
+categories: [krakow, europe]
 tags: [ krakow, sunny, cyprus ]
+airports: "Kraków"
 image: cyprus.jpg
 ---
 
