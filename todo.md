@@ -1,8 +1,16 @@
 
-- fix an issue with english airport names and no distinction for "other"
+## high priority
+
+- explain better what it does! E.g. slogan at the topc
+- bigger logo on desktop 
+- differentiate types in menu "destination", "Z xyz", "Kontakt" in some visual way
+- remove author?
+- shaded/greyed out older articles
+
+## lower priority
+
 - should I add more variety to images/description of the same destination? How exactly?
 - related posts only from the same airport? Now it mixes up
-
 - separate category for long-haul - as people may want to  travel to further airport to 
 get a good deal for them (like we did to Thailand or Hanyses do)
 - emojis?

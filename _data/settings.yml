@@ -9,7 +9,7 @@ google-ID: 'G-0NY2L2YKG1'
 menu:
 - {name: 'Świat',                 url: 'europe'}
 - {name: 'Europa',                url: 'europe'}
-- {name: 'Niezwykłe',             url: 'unusual'}
+- {name: 'Nietypowe',             url: 'unusual'}
 - {name: 'Z Krakowa',             url: 'krakow'}
 - {name: 'Z Warszawy',            url: 'warsaw'}
 
