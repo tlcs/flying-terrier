@@ -4,4 +4,4 @@ title: Kontakt
 permalink: /contact
 ---
 
-Wyślij email na: abc.
+Email: [contact.flying.terrier@gmail.com](mailto:contact.flying.terrier@gmail.com).
