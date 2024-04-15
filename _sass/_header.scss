@@ -1,3 +1,12 @@
+.site-title img {
+  content: url("/assets/img/logo.png");
+  display: inline-block;
+  position: relative;
+  width: 35px;
+  top: 10px;
+}
+
+
 .site-header {
   min-height: 56px;
   width: $container-width;
@@ -28,6 +37,7 @@
   padding-left: 10px;
   float: left;
 }
+
 .menu-list {
   line-height: $header-thickness;
   float: right;
