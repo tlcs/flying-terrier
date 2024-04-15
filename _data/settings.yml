@@ -7,7 +7,7 @@ disqus:
 google-ID: 'G-0NY2L2YKG1'
 
 menu:
-- {name: 'Świat',                 url: 'europe'}
+- {name: 'Świat',                 url: 'world'}
 - {name: 'Europa',                url: 'europe'}
 - {name: 'Nietypowe',             url: 'unusual'}
 - {name: 'Z Krakowa',             url: 'krakow'}
