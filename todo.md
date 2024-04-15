@@ -6,6 +6,7 @@
 - differentiate types in menu "destination", "Z xyz", "Kontakt" in some visual way
 - remove author?
 - shaded/greyed out older articles
+- fix social sharing links - twitter/instagram
 
 ## lower priority
 
