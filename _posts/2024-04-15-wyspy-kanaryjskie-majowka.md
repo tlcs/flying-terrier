@@ -4,7 +4,7 @@ title: "Wyspy Kanaryjskie na majówkę od 1330PLN"
 author: "FlyingTerrier"
 categories: [warsaw, europe]
 tags: [ canary, sunny ]
-airports: "Warszawa"
+airports: "Warszawa, Katowice, Gdańsk"
 image: canary-islands.jpg
 ---
 
