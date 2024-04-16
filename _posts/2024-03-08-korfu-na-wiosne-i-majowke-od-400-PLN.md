@@ -66,4 +66,4 @@ licznym zabytkom oraz bez wątpienia wspaniałej pogodzie, która jest niemal gw
 
 ---
 
-<sup>*</sup> Dostępność i ceny biletów aktualne w momencie publikowania artykułu.
+_<sup>*</sup>Dostępność i ceny biletów aktualne w momencie publikowania artykułu._

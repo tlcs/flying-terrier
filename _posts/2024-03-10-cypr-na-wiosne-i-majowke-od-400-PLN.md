@@ -60,4 +60,4 @@ dużej wartości historycznej, takich jak starożytne ruiny, kościoły bizantyj
 
 ---
 
-<sup>*</sup> Dostępność i ceny biletów aktualne w momencie publikowania artykułu.
+_<sup>*</sup>Dostępność i ceny biletów aktualne w momencie publikowania artykułu._

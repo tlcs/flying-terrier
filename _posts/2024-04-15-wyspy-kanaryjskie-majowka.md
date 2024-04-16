@@ -33,4 +33,4 @@ lotniska, w Polsce i na Wyspach Kanaryjskich. Są to loty **bez przesiadek**.
 
 ---
 
-<sup>*</sup> Dostępność i ceny biletów aktualne w momencie publikowania artykułu.
+_<sup>*</sup>Dostępność i ceny biletów aktualne w momencie publikowania artykułu._

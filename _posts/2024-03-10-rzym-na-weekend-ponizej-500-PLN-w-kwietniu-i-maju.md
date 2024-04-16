@@ -51,4 +51,4 @@ di Trevi i Panteon, ciesząc się przy tym urokiem włoskiej kultury, kuchni i a
 
 ---
 
-<sup>*</sup> Dostępność i ceny biletów aktualne w momencie publikowania artykułu.
+_<sup>*</sup>Dostępność i ceny biletów aktualne w momencie publikowania artykułu._
